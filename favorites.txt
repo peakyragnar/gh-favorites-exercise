@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Peppermnint Ice cream
 soft pretzels
 celery
+=======
+amadeus
+the fifth element
+thor
+>>>>>>> movies
